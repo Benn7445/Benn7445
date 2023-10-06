@@ -26,9 +26,3 @@ I'm Ben, a 20-year-old self-employed full-stack web designer based in Belgium.
 <br />
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=1A2B34)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=1A2B34)
-
-<p>{office_quote}</p>
-
-<p>{office_character}</p>
-
-Check back at the top of the hour for a new quote!
