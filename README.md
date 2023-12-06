@@ -3,7 +3,7 @@
 
 Greetings! 👋
 <br />
-I'm Ben, a 20-year-old self-employed full-stack web designer based in Belgium.
+I'm Ben, a 20-year-old self-taught full-stack web designer based in Belgium.
 
 # Github
 <a href="https://github.com/Benn7445">
